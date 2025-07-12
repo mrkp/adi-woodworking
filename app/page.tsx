@@ -89,9 +89,12 @@ export default function Home() {
             ))}
           </div>
           <div className="text-center mt-12">
-            <Link href="#contact" className="inline-flex items-center bg-amber-800 text-white px-6 py-3 rounded-lg font-semibold hover:bg-amber-900 transition">
+            <a 
+              href="mailto:adi.woodworking.tt@gmail.com?subject=Custom%20Woodworking%20Quote%20Request&body=Hello%20David%2C%0A%0AI'm%20interested%20in%20getting%20a%20custom%20quote%20for%20a%20woodworking%20project.%0A%0AProject%20Details%3A%0A-%20Type%20of%20project%3A%20%0A-%20Approximate%20dimensions%3A%20%0A-%20Preferred%20wood%20type%3A%20%0A-%20Timeline%3A%20%0A%0APlease%20let%20me%20know%20when%20we%20can%20discuss%20this%20further.%0A%0AThank%20you%2C%0A%5BYour%20Name%5D%0A%5BYour%20Phone%20Number%5D"
+              className="inline-flex items-center bg-amber-800 text-white px-6 py-3 rounded-lg font-semibold hover:bg-amber-900 transition"
+            >
               Get a Custom Quote <ChevronRight className="ml-2 h-5 w-5" />
-            </Link>
+            </a>
           </div>
         </div>
       </section>
