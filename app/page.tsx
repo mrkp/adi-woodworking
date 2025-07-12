@@ -50,9 +50,9 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
-              <h3 className="text-4xl font-bold text-gray-900 mb-6">About David Innis</h3>
+              <h3 className="text-4xl font-bold text-gray-900 mb-6">About David Inniss</h3>
               <p className="text-lg text-gray-600 mb-4">
-                With a passion for woodworking that spans over three decades, David Innis has established himself as one of Trinidad's premier craftsmen. His work combines traditional techniques with modern design sensibilities.
+                With a passion for woodworking that spans over three decades, David Inniss has established himself as one of Trinidad's premier craftsmen. His work combines traditional techniques with modern design sensibilities.
               </p>
               <p className="text-lg text-gray-600 mb-4">
                 From custom kitchen cabinetry to bespoke furniture pieces, David's attention to detail and commitment to quality ensures that every project becomes a lasting work of art.
@@ -64,7 +64,7 @@ export default function Home() {
             <div className="relative h-96 rounded-lg overflow-hidden shadow-xl">
               <Image
                 src="/WhatsApp Image 2025-07-11 at 19.14.11.jpeg"
-                alt="David Innis at work"
+                alt="David Inniss at work"
                 fill
                 className="object-cover"
               />
