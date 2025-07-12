@@ -36,7 +36,7 @@ export default function Home() {
         <div className="relative z-10 text-center text-white px-4">
           <h2 className="text-5xl font-bold mb-4">Master Craftsman from Trinidad</h2>
           <p className="text-xl mb-8 max-w-2xl mx-auto">
-            Bringing over 30 years of expertise in custom woodworking, fine furniture, and architectural millwork
+            Bringing over 20 years of expertise in custom woodworking, fine furniture, and architectural millwork
           </p>
           <Link href="#portfolio" className="inline-flex items-center bg-white text-amber-900 px-6 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
             View My Work <ChevronRight className="ml-2 h-5 w-5" />
@@ -52,7 +52,7 @@ export default function Home() {
             <div>
               <h3 className="text-4xl font-bold text-gray-900 mb-6">About David Inniss</h3>
               <p className="text-lg text-gray-600 mb-4">
-                With a passion for woodworking that spans over three decades, David Inniss has established himself as one of Trinidad's premier craftsmen. His work combines traditional techniques with modern design sensibilities.
+                With a passion for woodworking that spans over two decades, David Inniss has established himself as one of Trinidad's premier craftsmen. His work combines traditional techniques with modern design sensibilities.
               </p>
               <p className="text-lg text-gray-600 mb-4">
                 From custom kitchen cabinetry to bespoke furniture pieces, David's attention to detail and commitment to quality ensures that every project becomes a lasting work of art.
